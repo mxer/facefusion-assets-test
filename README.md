@@ -1,0 +1,2 @@
+# facefusion-assets
+my models
